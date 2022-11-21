@@ -1,0 +1,100 @@
+body{
+ background-image: url( ./imagenes/top-10-tiendas-de-deporte.jpg);
+ background-size:cover;
+ background-repeat: no-repeat;
+
+}
+h1 {
+
+    text-align: center;
+    color:rgb(236, 235, 226)
+
+}
+.container-fluid {
+
+padding: 1%;
+background-color: bisque;
+
+}
+
+.navbar-nav {
+
+    width: 100%;
+
+
+}
+.navbar-nav a{
+    color: rgb(10, 10, 10);
+    font-weight: 900;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-collapse {
+
+ display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+}
+.navbar-collapse a {
+
+    text-decoration: none;
+    margin: 1%;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+.admin {
+
+margin-right: 5%;
+color: rgba(73, 36, 3, 0.537);
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+table{
+
+    background-color: black;
+    color:azure;
+
+}
+td a{
+
+    color: azure;
+}
+
+
+
+    
+
+
+h4 {
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    color: white;
+    padding: 5%;
+}
+form input{
+    width: 0%;
+    margin-top: 1%;
+}
+
+form button{
+    width: 50%;
+    margin-top: 3%;
+}
+ footer 
+    {
+background-color: blanchedalmond;
+
+
+    }
